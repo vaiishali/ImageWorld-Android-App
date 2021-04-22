@@ -217,19 +217,19 @@ This task is my very first time creating any android application. Being a novice
 
 Here, I have revealed the milestones to be attained and the approximated days for the development.
 
-<br />
-*	15 March 2021: Customer Enrollment and Login
 
-<br />
+* 15 March 2021: Customer Enrollment and Login
+
+
 *	23 March 2021: Designing of the main page of the application
 
-<br />
+
 *	28 March 2021: Include posting/uploading feature
 
-<br />
+
 *	2 April 2021: Include image viewing functionality (own and various other individuals) and also include the option to select particular users
 
-<br />
+
 *	9 April 2021: Make use of the application thoroughly to discover bugs as well as Finish the end product
 
 <br />
@@ -270,19 +270,19 @@ The ImageWorld application is coded in Kotlin using Firebase as a backend server
 
 
 **Installation instructions:**
-<br />
+
 *	The suggested image sharing application will be coded in Kotlin programming language using Android Studio. 
-<br />
+
 *	The application will be functional on any android device having Android OS 5 or greater. According to the data provided by Android Studio, this should cover 99.9% of android gadgets in operation as of today.
-<br />
+
 *	This application will need Firebase as its backend server. 
-<br />
+
 *	All images, captions, individual qualifications will be dealt with by the Firebase server. That is a cloud infrastructure established. 
-<br />
+
 *	That is maintained by Google that enables any individual to utilize the service for free. It helps to manage server-side programming.
-<br />
+
 *	Aside from fundamental server functionalities, Firebase additionally supplies real-time data sync. 
-<br />
+
 *	It also permits the integration of various other Google-based services in the application. And helps to provide security, and maintains the data risk-free, naming a few.
 <br />
 
@@ -510,5 +510,10 @@ For any further information, please contact on my E-mail id: vaishali61295@gmail
 4.	M. Taing and M. Taing, “Glide Tutorial for Android: Getting Started,” raywenderlich.com. [Online]. Available: https://www.raywenderlich.com/2945946-glide-tutorial-for-android-getting-started. [Accessed: 20-April-2021].
 5.	ArthurHub, “ArthurHub/Android-Image-Cropper,” GitHub. [Online]. Available: https://github.com/ArthurHub/Android-Image-Cropper/wiki/Using-CropImageView-in-own-Activity. [Accessed: 20-April-2021].
 6.	“How to Build a Mobile App like Instagram?,” By. [Online]. Available: https://hackernoon.com/how-to-build-a-mobile-app-like-instagram-c0d2e7dc01b3. [Accessed: 20-April-2021].
+<br />
+
+<br />
+
+<br />
 
 
