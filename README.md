@@ -24,6 +24,7 @@
 **Table of Content**
 
 * Overview
+* Abstract
 * Demo Screenshots
 * Projecty Description
 * Feature's List
@@ -52,6 +53,20 @@
 **Overview**
 
 The ImageWorld android application is an image sharing application. In the application, users can share the images with subtitles and fancy captions. Also, share their favorite photos with others. By using this application, individuals can likewise view images published by various other users. The application includes a simple user interface that is easy to operate and understandable to the users.
+
+
+**Abstract:**
+
+Mobile applications are the rapidly blooming sector in the sophisticated globe of the modern technology era. Android platform is one of the popular Operating Systems in the mobile phone industry.
+
+So in the final task, the campaign is to build a photo-sharing application. As individuals are much more curious about social networks, I tried to check out the possibilities with my restricted knowledge in android advancement. The application name is ImageWorld. I will be explaining the functions of the application and all the used resources. Finally, an in-depth discussion on how customers can use the app, will be shown.  And its restrictions will be displayed that can be the future improvement of the project.
+
+
+<br />
+
+<br />
+
+<br />
 
 
 <br />
@@ -99,6 +114,20 @@ The ImageWorld android application is an image sharing application. In the appli
 
 <br />
 
+
+**Application Summary:**
+
+The main emphasis of the ImageWorld app is image sharing with the other users, hence, the name ImageWorld. The application consists of a feature for creating captions too. Users can log in or sign up to the application to utilize it. Upon visiting, users will be redirected to the main web screen. Here they can see images uploaded by others, the typical combination of E-mail and password for user authentication. Images appear on the main web page from the customers that are in the customer checklist. The application is into three parts. 
+
+One for watching pictures, one for selecting individuals, and the 3rd one are for uploading photos. That is my first
+effort to develop and code the android application. I realized to establish something which I directly utilize regularly. I obtained inspiration from Instagram as it is just one of my most used social media platforms. Even though building something like Instagram is past the scope of the project, I attempted to comply with the format of Instagram as long as I could follow it. To achieve my objectives, I needed aid from a few standards that are referenced later on.
+
+
+<br />
+
+<br />
+
+<br />
 
 
 
@@ -162,9 +191,9 @@ To offer a correct overview of the application as just how it will certainly fun
 
 **Technical Specifications of Application**
 
-The suggested image sharing application will be coded in Kotlin programming language using Android Studio [1]. The application will be functional on any android device having Android OS 5 or greater. According to the data provided by Android Studio, this should cover 99.9% of android gadgets in operation as of today.
+The suggested image sharing application will be coded in Kotlin programming language using Android Studio . The application will be functional on any android device having Android OS 5 or greater. According to the data provided by Android Studio, this should cover 99.9% of android gadgets in operation as of today.
 
-This application will need Firebase as its backend server. All images, captions, individual qualifications will be dealt with by the Firebase server [1][2]. That is a cloud infrastructure established. That is maintained by Google that enables any individual to utilize the service for free. It helps to manage server-side programming. Aside from fundamental server functionalities, Firebase additionally supplies real-time data sync. It also permits the integration of various other Google-based services in the application. And helps to provide security, and maintains the data risk-free, naming a few.	
+This application will need Firebase as its backend server. All images, captions, individual qualifications will be dealt with by the Firebase server . That is a cloud infrastructure established. That is maintained by Google that enables any individual to utilize the service for free. It helps to manage server-side programming. Aside from fundamental server functionalities, Firebase additionally supplies real-time data sync. It also permits the integration of various other Google-based services in the application. And helps to provide security, and maintains the data risk-free, naming a few.	
 
 
 <br />
@@ -244,98 +273,27 @@ The ImageWorld application is coded in Kotlin using Firebase as a backend server
 **1.	User Registration and Login:**
 After starting the android application, the individuals will first look at the screen to log in or Sign up. For accessing the application, users need to be registered first.
 
+<br />
+<br />
 
 **2.	Upload Photo from Gadget with Caption:**
 The primary screen of the application will be, divided into two components. The main page will be for the customer to post images, and the other page will be for viewing others' pictures.
-
+<br />
+<br />
 
 **3.	View Photos Uploaded by Other Customers/Users:**
 As stated previously, the second page of the android application will be for viewing images.
-
+<br />
+<br />
 
 **4.	Select Certain Individuals:**
 There will be one recommended feature in the application that will be choosing individuals.  They will submit images that will certainly show up on the primary page so that the user can see their image from there.
-
+<br />
+<br />
 
 **5.	Infinite Scrolling:**
 The proposed application will feature the boundless scrolling performance so that the customer can see all uploaded photos only by swiping the screen up or down in the application. This will be an added functionality in the future.
 
-
-
-<br />
-
-<br />
-
-<br />
-
-
-**Contact information:**
-
-For any further information, please contact on my E-mail id: vaishali61295@gmail.com
-
-
-<br />
-
-<br />
-
-<br />
-
-
-**Bug list:**
-
-
-<br />
-
-<br />
-
-<br />
-
-
-**Troubleshooting tips:**
-1. Try to clean the project.
-2. Then rebuild it.
-3. After that, deploy your code.
-4. Now, execute it. 
-
-
-<br />
-
-<br />
-
-<br />
-
-**Credits and acknowledgments:**
-
-
-
-<br />
-
-<br />
-
-<br />
-
-
-
-
-**Abstract:**
-
-Mobile applications are the rapidly blooming sector in the sophisticated globe of the modern technology era. Android platform is one of the popular Operating Systems in the mobile phone industry.
-
-So in the final task, the campaign is to build a photo-sharing application. As individuals are much more curious about social networks, I tried to check out the possibilities with my restricted knowledge in android advancement. The application name is ImageWorld. I will be explaining the functions of the application and all the used resources. Finally, an in-depth discussion on how customers can use the app, will be shown.  And its restrictions will be displayed that can be the future improvement of the project.
-
-
-<br />
-
-<br />
-
-<br />
-
-**Application Summary:**
-
-The main emphasis of the ImageWorld app is image sharing with the other users, hence, the name ImageWorld. The application consists of a feature for creating captions too. Users can log in or sign up to the application to utilize it. Upon visiting, users will be redirected to the main web screen. Here they can see images uploaded by others, the typical combination of E-mail and password for user authentication. Images appear on the main web page from the customers that are in the customer checklist. The application is into three parts. 
-
-One for watching pictures, one for selecting individuals, and the 3rd one are for uploading photos. That is my first
-effort to develop and code the android application. I realized to establish something which I directly utilize regularly. I obtained inspiration from Instagram as it is just one of my most used social media platforms. Even though building something like Instagram is past the scope of the project, I attempted to comply with the format of Instagram as long as I could follow it. To achieve my objectives, I needed aid from a few standards that are referenced later on.
 
 
 <br />
@@ -406,7 +364,6 @@ The application development process has gone over how a customer will view the a
 
 <br />
 
-
 **Limitations:**
 
 The android application developed is my 1st app, therefore some features do not work and also leads to crashing of the app with these features that I tried to carry out but failed. I will certainly detail the functionalities that I attempted to include however, fell short as well as functions that are missing from the app. They are as follows:
@@ -464,6 +421,50 @@ Attributes notice system that enables all the individuals to obtain direct notif
 <br />
 
 <br />
+
+
+**Contact information:**
+
+For any further information, please contact on my E-mail id: vaishali61295@gmail.com
+
+
+<br />
+
+<br />
+
+<br />
+
+
+
+**Troubleshooting tips:**
+1. Try to clean the project.
+2. Then rebuild it.
+3. After that, deploy your code.
+4. Now, execute it. 
+
+
+<br />
+
+<br />
+
+<br />
+
+**Credits and acknowledgments:**
+
+1. Dr. Parag Shukla - [1]"Before you continue to YouTube", Youtube.com, 2021. [Online]. Available: https://www.youtube.com/watch?v=j11O6DvkePg. [Accessed: 21- Apr- 2021]
+
+2. CodeAndroid - [2]"Before you continue to YouTube", Youtube.com, 2021. [Online]. Available: https://www.youtube.com/watch?v=MA8WbvROrLs. [Accessed: 21- Apr- 2021]
+
+3. CodeAndroid - [3]"Before you continue to YouTube", Youtube.com, 2021. [Online]. Available: https://www.youtube.com/watch?v=fVoGwVTyIr8. [Accessed: 21- Apr- 2021]
+
+<br />
+
+<br />
+
+<br />
+
+
+
 
 
 **Links to further reading:	**
