@@ -11,6 +11,26 @@
 
 
 
+**Table of Content**
+
+* Overview
+* Demo Screenshots
+* Projecty Description
+* Feature's List
+* Technical Specifications of Application
+* Time-line
+* Configuration Instructions
+* Installation instruction
+* Operating Instructions
+* Contact information:
+* Bug list:
+* Troubleshooting tips:
+* Credits and acknowledgments:
+
+
+
+
+
 
 **Overview**
 
@@ -48,8 +68,6 @@ The ImageWorld android application is an image sharing application. In the appli
 
 **Figures: Reveals the layout of the primary page of this application.**___
 
-
-**Table of contents:**
 
 
 
