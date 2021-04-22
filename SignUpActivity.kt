@@ -9,6 +9,8 @@ import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import kotlinx.android.synthetic.main.activity_sign_up.*
 
+
+//setting up a sign up page 
 class SignUpActivity : AppCompatActivity() {
 
     private lateinit var auth: FirebaseAuth
@@ -23,6 +25,8 @@ class SignUpActivity : AppCompatActivity() {
         }
 
     }
+    
+    //creating function for new user registration
 
     private fun signUpUser() {
         if (tv_username.text.toString().isEmpty()) {
