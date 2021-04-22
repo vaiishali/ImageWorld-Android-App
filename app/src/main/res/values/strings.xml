@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageWorld</string>
+    <string name="upload">Upload</string>
+    <string name="choose">choose</string>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="dont_have_account">Register Here</string>
+    <string name="login">Login</string>
+    <string name="sign_up">SignUp</string>
+    <string name="email">Email ID</string>
+    <string name="password">Password</string>
+</resources>
