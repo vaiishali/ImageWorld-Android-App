@@ -26,6 +26,7 @@
 * Overview
 * Abstract
 * Demo Screenshots
+* Application Summary
 * Projecty Description
 * Feature's List
 * Technical Specifications of Application
@@ -33,10 +34,14 @@
 * Configuration Instructions
 * Installation instruction
 * Operating Instructions
-* Contact information:
-* Bug list:
-* Troubleshooting tips:
-* Credits and acknowledgments:
+* Design
+* Limitations
+* Guidelines and Online resource used
+* Conclusion
+* Contact information
+* Troubleshooting tips
+* Credits and acknowledgments
+* Links to further reading - References
 
 
 <br />
@@ -54,6 +59,9 @@
 
 The ImageWorld android application is an image sharing application. In the application, users can share the images with subtitles and fancy captions. Also, share their favorite photos with others. By using this application, individuals can likewise view images published by various other users. The application includes a simple user interface that is easy to operate and understandable to the users.
 
+<br />
+
+<br />
 
 **Abstract:**
 
@@ -208,11 +216,23 @@ This application will need Firebase as its backend server. All images, captions,
 This task is my very first time creating any android application. Being a novice and not having a lot of experience and knowledge for developing android applications require tentatively 4 to 5 weeks for the proposed ImageWorld application. 
 
 Here, I have revealed the milestones to be attained and the approximated days for the development.
-•	15 March 2021: Customer Enrollment and Login
-•	23 March 2021: Designing of the main page of the application
-•	28 March 2021: Include posting/uploading feature
-•	2 April 2021: Include image viewing functionality (own and various other individuals) and also include the option to select particular users
-•	9 April 2021: Make use of the application thoroughly to discover bugs as well as Finish the end product
+
+<br />
+*	15 March 2021: Customer Enrollment and Login
+
+<br />
+*	23 March 2021: Designing of the main page of the application
+
+<br />
+*	28 March 2021: Include posting/uploading feature
+
+<br />
+*	2 April 2021: Include image viewing functionality (own and various other individuals) and also include the option to select particular users
+
+<br />
+*	9 April 2021: Make use of the application thoroughly to discover bugs as well as Finish the end product
+
+<br />
 
  
 
@@ -250,13 +270,21 @@ The ImageWorld application is coded in Kotlin using Firebase as a backend server
 
 
 **Installation instructions:**
-•	The suggested image sharing application will be coded in Kotlin programming language using Android Studio [1]. 
-•	The application will be functional on any android device having Android OS 5 or greater. According to the data provided by Android Studio, this should cover 99.9% of android gadgets in operation as of today.
-•	This application will need Firebase as its backend server. 
-•	All images, captions, individual qualifications will be dealt with by the Firebase server [1][2]. That is a cloud infrastructure established. 
-•	That is maintained by Google that enables any individual to utilize the service for free. It helps to manage server-side programming. 
-•	Aside from fundamental server functionalities, Firebase additionally supplies real-time data sync. 
-•	It also permits the integration of various other Google-based services in the application. And helps to provide security, and maintains the data risk-free, naming a few.
+<br />
+*	The suggested image sharing application will be coded in Kotlin programming language using Android Studio. 
+<br />
+*	The application will be functional on any android device having Android OS 5 or greater. According to the data provided by Android Studio, this should cover 99.9% of android gadgets in operation as of today.
+<br />
+*	This application will need Firebase as its backend server. 
+<br />
+*	All images, captions, individual qualifications will be dealt with by the Firebase server. That is a cloud infrastructure established. 
+<br />
+*	That is maintained by Google that enables any individual to utilize the service for free. It helps to manage server-side programming.
+<br />
+*	Aside from fundamental server functionalities, Firebase additionally supplies real-time data sync. 
+<br />
+*	It also permits the integration of various other Google-based services in the application. And helps to provide security, and maintains the data risk-free, naming a few.
+<br />
 
 
 
@@ -303,7 +331,7 @@ The proposed application will feature the boundless scrolling performance so tha
 <br />
 
 
-**Design**
+**Design:**
 
 To define the layout of the android application, the features and functions of the application are explained.  When beginning the application for the very first time, individuals will be motivated by a login page. On the login option page, a different button is displayed. That is for new individuals that require to be signed up. The following figures reveal the login/register food selection.
 
@@ -317,10 +345,10 @@ As pointed out previously, the application user interface has been separated rig
 
 To understand how the application was constructed, I will explain the actions taken to finish the task. There were a couple of applications and also libraries used to develop the app. They are:
 
-Install Android Studio Application
-Firebase used for authentication, Storage Space, and adding Realtime-Database.
-For fetching pictures from the Firebase, use Glide Library.
-Android Fragments are for dividing features into separate menus.
+* Install Android Studio Application
+* Firebase used for authentication, Storage Space, and adding Realtime-Database.
+* For fetching pictures from the Firebase, use Glide Library.
+* Android Fragments are for dividing features into separate menus.
 
 First of all, after producing a new task, login activity, as well as the registration page is developed. Using the Firebase tool in the Android Studio app, the Firebase connection is established. In my account in Firebase, a brand-new project was made where the new application was joined using the bundle name JSON file.
 
@@ -342,7 +370,12 @@ As discussed previously, Instagram is among my most utilized application as well
 
 Fragments follow the same concept as a task but the distinction is that it permits various functions to be indifferent food selections. For the application, I made use of Android Fragments to build a resemble of Instagram as feasible. As many of the features are followed to recognize and apply it in my task, in the area "Limitations and project comments, I will describe carefully the standards utilized in the application.
 
+<br />
+<br />
+
+
 The application development process has gone over how a customer will view the app. The steps are:
+<br />
 
 1. Firstly, a login menu will show up requesting individual E-mail and also passwords. With the correct credentials, individuals can sign in to the application.
 
@@ -387,7 +420,7 @@ The android application developed is my 1st app, therefore some features do not 
 <br />
 
 
-**Guidelines, and Online resource, used:**
+**Guidelines and Online resource used:**
 
 As I pointed out earlier, a couple of standards (referenced) were complied with to complete this job. To mention the internet resources used for developing the application.
 
@@ -467,7 +500,8 @@ For any further information, please contact on my E-mail id: vaishali61295@gmail
 
 
 
-**Links to further reading:	**
+**Links to further reading:**
+<br />
 **References**
 
 1.	"Firebase", Firebase, 2021. [Online]. Available: https://firebase.google.com/. [Accessed: 13- Mar- 2021] 
