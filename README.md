@@ -32,6 +32,8 @@
 
 
 
+
+
 **Overview**
 
 The ImageWorld android application is an image sharing application. In the application, users can share the images with subtitles and fancy captions. Also, share their favorite photos with others. By using this application, individuals can likewise view images published by various other users. The application includes a simple user interface that is easy to operate and understandable to the users.
@@ -66,7 +68,8 @@ The ImageWorld android application is an image sharing application. In the appli
 ![image](https://user-images.githubusercontent.com/14866700/115640613-9c101c00-a2d4-11eb-980e-9c0c697fe3a6.png)
 
 
-**Figures: Reveals the layout of the primary page of this application.**___
+**Figures: Reveals the layout of the primary page of this application.**
+
 
 
 
@@ -124,7 +127,7 @@ This application will need Firebase as its backend server. All images, captions,
 
 **Time-Line**
 
-This task will be my very first time creating any android application. Being a novice and not having a lot of experience and knowledge for developing android applications will require tentatively 4 to 5 weeks for the proposed ImageWorld application. 
+This task is my very first time creating any android application. Being a novice and not having a lot of experience and knowledge for developing android applications require tentatively 4 to 5 weeks for the proposed ImageWorld application. 
 
 Here, I have revealed the milestones to be attained and the approximated days for the development.
 •	15 March 2021: Customer Enrollment and Login
@@ -190,16 +193,23 @@ There will be one recommended feature in the application that will be choosing i
 The proposed application will feature the boundless scrolling performance so that the customer can see all uploaded photos only by swiping the screen up or down in the application. This will be an added functionality in the future.
 
 
-A manifest (list of files):
+
+**Contact information:**
+
+For any further information, please contact on my E-mail id: vaishali61295@gmail.com
+
+**Bug list:**
 
 
-Contact information:
 
-Bug list:
+**Troubleshooting tips:**
+1. Try to clean the project.
+2. Then rebuild it.
+3. After that, deploy your code.
+4. Now, execute it. 
 
-Troubleshooting tips:
 
-Credits and acknowledgments:
+**Credits and acknowledgments:**
 
 
 
